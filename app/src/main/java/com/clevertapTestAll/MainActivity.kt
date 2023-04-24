@@ -132,13 +132,13 @@ class MainActivity : AppCompatActivity(), PushPermissionResponseListener, CTPush
         }
         val initOptions = JSONObject()
         try {
-            initOptions.put("accountId", "640f4e74fe2466eed4a7ec45")
+            initOptions.put("accountId", "ACCOUNT_ID")
             initOptions.put(
                 "apiKey",
-                "xzyoaK5rgdIzHlfVU3gmolqcD0YLrghXhnOd0hcFOytg7hlBWJmIdtzmLTIs8U8M"
+                "API_KEY"
             )
             initOptions.put("cuid", "Ck1117378")
-            initOptions.put("appId", "co.clubmahindra.mahindraholidays") //optional
+            initOptions.put("appId", "APPID") //optional
             initOptions.put("name", "Test Name") //optional
             //initOptions.put("ringtone", ""); //optional
         } catch (e: JSONException) {
