@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XiaomiNewIntegration</string>
+    <string name="xiaomi_app_key">5592122680156</string>
+    <string name="xiaomi_app_id">2882303761521226156</string>
+    <string name="CLEVERTAP_ACCOUNT">W8W-6R9-885Z</string>
+    <string name="CLEVERTAP_TOKEN">c26-0b0</string>
+</resources>

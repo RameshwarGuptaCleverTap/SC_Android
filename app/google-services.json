@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426642172083",
+    "project_id": "xiaominewintegration",
+    "storage_bucket": "xiaominewintegration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426642172083:android:67990e2bccd435975aa8c6",
+        "android_client_info": {
+          "package_name": "com.clevertapTestAll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426642172083-5cdurfhooqnbonscb2mi6eqhaisold0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXuJQp9jm0eZC2TNTDvzWmRS4HmF3lmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426642172083-5cdurfhooqnbonscb2mi6eqhaisold0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
